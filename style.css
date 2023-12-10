@@ -62,3 +62,13 @@ main {
   opacity: 0.6;
   transition: all 0.5s;
 }
+
+#din {
+  position: fixed;
+  left: 20px;
+  bottom: 40px;
+}
+
+.fade {
+  opacity: 0;
+}
