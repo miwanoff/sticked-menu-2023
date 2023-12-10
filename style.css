@@ -45,3 +45,19 @@ main {
   top: 0px;
   left: 0;
 }
+#up {
+  display: block;
+  background: maroon;
+  color: gold;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  padding-top: 15px;
+  font-size: 24px;
+  opacity: 0.6;
+}
